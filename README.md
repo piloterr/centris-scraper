@@ -171,13 +171,13 @@ Example response from the API reference, abridged — real values depend on the 
   "rooms": 5,
   "title": "Condo for sale in Montréal (Le Sud-Ouest), Montréal (Island), 2365, Rue Saint-Patrick, apt. 207, 17796540 - Centris.ca",
   "broker": {
-    "name": "Cassian Bopp",
-    "image": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DDD1BDFFDDDDDDDDDDD&t=c&f=I&w=190&h=220",
-    "title": "Residential Real Estate Broker",
-    "agency": "SOTHEBY'S INTERNATIONAL REALTY QUÉBEC",
+    "name": "example",
+    "image": "example",
+    "title": "example",
+    "agency": "example",
     "phones": [],
-    "agency_type": "Real Estate Agency",
-    "contact_url": "https://www.centris.ca/en/contact-broker/g5475/property/17796540",
+    "agency_type": "example",
+    "contact_url": "example",
     "profile_url": "example"
   },
   "images": [
