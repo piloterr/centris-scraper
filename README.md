@@ -511,10 +511,10 @@ Use Piloterr from your own language with a typed client:
 
 - [Apartments Scraper API](https://github.com/piloterr/apartments-scraper)
 - [Argenprop Scraper API](https://github.com/piloterr/argenprop-scraper)
+- [Domain.com.au Scraper API](https://github.com/piloterr/domaincomau-scraper)
 - [Fotocasa Scraper API](https://github.com/piloterr/fotocasa-scraper)
 - [Funda Scraper API](https://github.com/piloterr/funda-scraper)
 - [Homestra Scraper API](https://github.com/piloterr/homestra-scraper)
-- [Idealista Scraper API](https://github.com/piloterr/idealista-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
 
 ## Support
